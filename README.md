@@ -80,7 +80,3 @@ Conclusion
 Summarizing the findings and insights from the analysis
 Discussing the strengths and limitations of the DNN and XGBoost models
 Providing recommendations for further investigation and model interpretability
-
-
-
-Summary 2: Project Highlights
