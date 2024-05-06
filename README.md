@@ -1,4 +1,4 @@
-<h2>Machine-Learning-on-climateTrace-Emission </h2>
+<h2>Machine Learning on Climate Trace Emission</h2>
 
 In this cutting-edge data science project, a comprehensive analysis of the Climate Trace Emission Dataset was conducted, employing advanced techniques in data analytics, machine learning, and deep learning. The project showcased the power of geospatial analysis using Geopandas, enabling the visualization and interpretation of CO2 emissions across the United States at both raw and normalized levels. Through the development of sophisticated machine learning models, including Extreme Gradient Boosting (XGBoost) and Deep Neural Networks (DNN), the project achieved highly accurate predictions of CO2 emissions, with the DNN model outperforming XGBoost in terms of root mean squared error. The project also delved into model interpretation using SHAP (SHapley Additive exPlanations), providing valuable insights into the significance of various features in influencing CO2 emissions.
 
