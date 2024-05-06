@@ -4,6 +4,8 @@ In this cutting-edge data science project, a comprehensive analysis of the Clima
 
 <br>
 
+Detailed Breakdown
+
 Introduction
 
 Overview of the project: Data Analytics, Machine Learning, and Deep Learning on Climate Trace Emission Dataset
@@ -73,10 +75,3 @@ Model Comparison: Deep Neural Network vs XGBoost
 Evaluating the performance of DNN and XGBoost models using 1:1 scatterplots
 Calculating evaluation metrics (RMSE, R-squared, MAE) for both models
 Comparing the accuracy and performance of DNN and XGBoost models
-
-
-Conclusion
-
-Summarizing the findings and insights from the analysis
-Discussing the strengths and limitations of the DNN and XGBoost models
-Providing recommendations for further investigation and model interpretability
